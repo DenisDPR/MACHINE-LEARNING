@@ -5,13 +5,13 @@ As I approached different challlenges of data analysis, It was inevitable to app
 <br />
 
 Prior to understand ML, one should know atleast some of the following mathematical topics:
-i) linear algebra
-ii) probability theory
-iii) calculus
-iv) statistics
-v) calculus of variations
-vi) graph theory
-vii) optimization methods (Lagrange multipliers)
+- linear algebra
+- probability theory
+- calculus
+- statistics
+- calculus of variations
+- graph theory
+- optimization methods (Lagrange multipliers)
 
 ### Other prerequisites:
 Knowledge of basic computer science principles and skills, at a level sufficient to write a reasonably non-trivial computer program.
