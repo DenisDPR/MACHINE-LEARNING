@@ -1,7 +1,7 @@
 # MACHINE LEARNING
-You are here to either learn ML or quick view the ML approaches used.I got to ML after rogorous data analysis using python and R.
-As I approached different challlenges of data analysis, It was inevitable to apply ML in the kind of datasets, so I had to learn ML.
-
+Machine Learning is the science of creating algorithms and program which learn on their own.Once designed, no need for human being to become better. Common ML approaches include but not limited to Web Search, spam filters, recommender system, ad placement,credit scoring,fraud detection,stock,trading,computer vision etc.
+You are here to either learn ML or quick view the ML approaches used.I got to ML after rigorous data analysis using python and R.
+As I approached different challlenges of data analysis, It was inevitable to apply ML in the kind of datasets, so I had to learn ML.ML seems to be complex but as far as you got passion, you can learn it.
 <br />
 
 Prior to understand ML, one should know atleast some of the following mathematical topics:
