@@ -1,9 +1,7 @@
 #!/usr/bin/python
 
 """ 
-   
-    Use a Naive Bayes Classifier to identify emails by their authors
-    
+Use a Naive Bayes Classifier to identify emails by their authors
     authors and labels:
     Sara has label 0
     Chris has label 1
