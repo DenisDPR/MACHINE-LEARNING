@@ -9,6 +9,8 @@ def featureScaling(arr):
         arr = (arr - minVal) / float(maxVal- minVal)
         return arr
 
-# tests of your feature scaler--line below is input data
+# tests of your feature scaler
 data = [115, 140, 175]
 print featureScaling(data)
+#Output
+#[0. 0.41666667 1.]
